@@ -1,0 +1,10 @@
+pandas
+uvicorn
+fastapi
+psycopg2
+nltk
+redis
+scikit-learn==0.21.3
+rake-nltk
+numpy
+python-multipart
